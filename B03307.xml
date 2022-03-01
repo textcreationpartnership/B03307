@@ -1,0 +1,2002 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the court of Whitehall the first of May, 1674. Present, the Kings Most Excellent Majesty ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03307</idno>
+            <idno type="STC">Wing E826A</idno>
+            <idno type="STC">ESTC R174981</idno>
+            <idno type="EEBO-CITATION">51784532</idno>
+            <idno type="OCLC">ocm 51784532</idno>
+            <idno type="VID">174941</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174941)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2706:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the court of Whitehall the first of May, 1674. Present, the Kings Most Excellent Majesty ...</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Great Britain. Sovereign (1660-1685 : Charles II).</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker...,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title vignette: royal seal.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shipping --  Rates --  Great Britain --  Early works to 1800.</term>
+               <term>Maritime law --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:174941:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>
+                  <hi>At the Court at WHITEHALL</hi> 
+                  <date>
+                     <hi>the Firſt of</hi> May, 1674.</date>
+               </dateline>
+            </opener>
+            <p>PRESENT
+<list>
+                  <item>The Kings moſt Excellent Majeſty.</item>
+                  <item>His Highneſs Prince Rupert.</item>
+                  <item>Lord Keeper.</item>
+                  <item>Lord Treaſurer.</item>
+                  <item>Lord Privy Seal.</item>
+                  <item>Duke of Lauderdale.</item>
+                  <item>Duke of Ormond.</item>
+                  <item>Earl of Oſſory.</item>
+                  <item>Lord Chamberlain.</item>
+                  <item>Earl of Bridgewater.</item>
+                  <item>Earl of Bathe.</item>
+                  <item>Earl of Carliſle</item>
+                  <item>Earl of Craven.</item>
+                  <item>Earl of Twedale.</item>
+                  <item>Viſcount Fauconberg.</item>
+                  <item>Viſcount Hallifax.</item>
+                  <item>Lord Maynard.</item>
+                  <item>Lord Newport.</item>
+                  <item>Mr. Vice-Chamberlain.</item>
+                  <item>Mr. Secretary Coventry.</item>
+                  <item>Mr. Montague.</item>
+                  <item>Mr. of the Ordnance.</item>
+               </list>
+            </p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>hereas by a late Act of this preſent Parliament made in the Two and twentieth Year of his now Majeſties Reign, Intituled,</hi> An Additional Act for Re<g ref="char:EOLhyphen"/>building of the City of LONDON, Uniting of Pariſhes, and Rebuilding the Cathedral and Parochial Churches within the ſaid City, <hi>it is by ſeveral Clauſes in the ſaid Act contained, amongſt other things Enacted, That there ſhall be left a convenient Tract of Ground all along from</hi> London Bridge <hi>to the</hi> Temple, <hi>of the Breadth of Fourty Foot of Aſſize, from the North ſide of the River of</hi> Thames, <hi>to be converted to a Key, or publick and open Wharf; And that no Lighter-boats or other Veſſel ſhall lie before any of the ſaid Wharfs or Keys, between the places aforeſaid on the North ſide of the ſaid River, longer then ſhall be neceſſary for the Loading or Unloading of Goods, without the conſent and permiſſion of the Wharfingers or Proprietors thereof: And that it ſhall and may be lawful for any perſon or perſons to Load or Unload any Goods or Merchandiſes at any of the ſaid Wharfs or Keys; for Wharfe<g ref="char:EOLhyphen"/>age and Craneage whereof, every Proprietor, Wharfinger, or other perſons concerned, ſhall and may demand and receive ſuch Rates, and no other for the ſame, as ſhall from time to time be ſet out, appointed, aſſeſſed, and allowed by his Majeſty, with the advice of his privy Council: A Cable of which Rates ſhall be hanged up at every of the ſaid Wharfs reſpectively. His Majeſty this day preſent in Council having conſidered of the ſeveral Rates in the Schedule here unto annexed, hath and both hereby with the Advice of His Privy Council, aſſeſs and allow, ſet out and appoint the ſaid ſeveral and reſpective Rates therein contained; And both order and appoint, that the ſame ſhall and may be taken for the Wharfeage and Craneage of all ſuch Goods in the ſaid Schedule alſo mentioned, as ſhall at any time hereafter by any perſon whatſoever be brought into, ſhipped off, loaden or unloaden at</hi> Brooks Wharf <hi>or Key, adjoyning to</hi> Queen-Hithe <hi>in</hi> London; <hi>and that it ſhall and may be lawful for the preſent Owner or Proprietor of the ſaid Wharf, and his Heirs or Aſſigns, Leſſees, Tenants, or Under-tenants, from time to time, and at all times hereafter, to demand of, and receive from every perſon or perſons that ſhall hereafter bring any Goods unto, ſhip them off, or load or unload the ſame at the aforeſaid Key or Wharf, the ſeveral Rates for Craneage and Wharfeage, which by the aforeſaid Schedule is appointed to be paid for the ſame, and no other. And to the intent that all perſons con<g ref="char:EOLhyphen"/>cerned may know what they are to pay for the Craneage and Wharfeage of their Goods, as aforeſaid, and not be impoſed upon by the Wharfinger, and made to pay more then their juſt dues; It is further Ordered, That the ſame be Printed and Publiſhed, and that a Copy of the ſaid Cable of Rates ſhall according to the direction of the aforeſaid Act of Parliament, be kept conſtantly hanging up in the moſt publick part and place of the ſaid Wharf or Key, and another at the Cuſtom-houſe, for all per<g ref="char:EOLhyphen"/>ſons concerned to reſort unto and make uſe of, as they ſhall have occaſion.</hi>
+            </p>
+            <closer>
+               <signed>EDWARD WALKER.</signed>
+            </closer>
+         </div>
+         <div type="table_of_rates">
+            <p>A Table of RATES Eſtabliſhed by the Kings moſt Excellent Majeſty, with the Advice of His moſt Honourable Privy Council, to be paid for the Wharfeage and Craneage of all ſuch Goods as ſhall hereafter be brought unto, or Shipped off, or Laden or Unladen at <hi>Brooks Wharf</hi> or Key adjoyning to <hi>Queen-Hythe</hi> in the City of <hi>LONDON.</hi>
+               <table>
+                  <head>A.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>ALlum the bag</cell>
+                     <cell>00</cell>
+                     <cell>1½</cell>
+                  </row>
+                  <row>
+                     <cell>Allum the C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Apples a maine</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Apples the basket 2. buſhels</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Aſhes the load</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Anniſeeds the bag</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Anniſeeds the ſmall bag</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Almonds the bag</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Alder-poles the load</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>Ammell the bag</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Aſhen-poles the load</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>Ale the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Ale the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>B.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>BEer the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Beer the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Beer the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Beer the kilderkin</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Beer the butt</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Beans the ſack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Butter the firkin</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+                  <row>
+                     <cell>Butter the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Butter the barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Bacon the ſide</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+                  <row>
+                     <cell>Brooms the dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Bruſhes the dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Braſs the C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Books the cheſt</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Books the bundle</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Brimſtone the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Brimſtone the puntion</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Bells great, the bell</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Bowls or wooden ware the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Brazell the C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Brazell the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Bark the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Basket ware the dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Barrel boards the 1000</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Bottles the basket</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Birdlime the barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>C.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>CHarcoal the load</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Currants the butt</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Currants the Curteel</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Currants the role</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Cheſt Caſtle ſoap</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Copper the ſack</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Copper the C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Copper pans the pan</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Copperas the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Copperas the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Cheeſe the C.</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+                  <row>
+                     <cell>Cheeſe the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Cheeſe the tun</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Coals the chaldron</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Coals Scotch the tun</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Cloth the pack</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Cloth the truſs</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Cloth the bundle</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Cyder the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Cyder the Hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Chairs the parcel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Calve-skins the dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Candles the barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Candles the basket</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Candle-Wick the pack</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Clay for Tobacco-pipes the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Cloth the horſe-pack</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Cheſt or trunk with goods</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Crabs' the quarter</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Cordage the tun</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>D.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>DEals the hundred</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Deals large the 100.</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Deals ſhort and narrow the C.</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Deals very large the C.</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Dry wares the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Dry wares the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Dry wares the punt</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>Dry wares the butt</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Dry wares the fatt</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Dry wares the basket</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Dry wares the ſack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>E.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>EMpty Cask the tun</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Earthen ware a cheſt</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Earthen ware the basket</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Earthen ware the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Earthen ware the pannier</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Eels the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Elm boards the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Elder-berries the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>F.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>FIrre poles or balks the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Firre timber the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Fullers earth the bag</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh the basket and C.</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh the C.</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh the basket with 2. ears</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh-boats the boat</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the bundle and C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the bundle 28 l.</cell>
+                     <cell>00</cell>
+                     <cell>0¼</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the tun</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the bail 10. C.</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Flax the bag</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Fellyes the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Fellyes great the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Fellyes middle and ſmall the 1000</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Fitch of Sugar</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Figs the barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Figs the tapnoll</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+                  <row>
+                     <cell>Fells or ſheep-skins the dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Fruit the burthen 4. buſhel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>G.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>GLaſs the caſe</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Glaſs the cheſt</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Glaſs the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Grinſtones the chaldron</cell>
+                     <cell>01</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Grinſtones the ſix foot</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Grinſtones the four foot</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Ginger the bag 2 C.</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Ginger the box</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Ginger the bag 1 C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Gauls the bag</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Gum the bag</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Grave-ſtones the ſtone</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Grain of all ſorts, the quarter inward</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+                  <row>
+                     <cell>Grain of all ſorts, the quarter outwards</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Green-wood the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Gilt the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>H.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>HOrns the bag</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Hemp the C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Hemp the tun</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Hemp the bundle 2. C. weight</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Hemp the great bundle</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Herrings the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Herring the cade</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Houſhold-goods the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Hides the ſcore</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Hides the dicker</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Hides tanned the dicker</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Hides with hair the dicker</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Hops the bag</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Hops the end</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Hops the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Honey the firkin</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Hair the Cart-load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Hair the great ſack</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Hoops flat and broad, and white, the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Hoops ſmart the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Hamper ſmall with ware</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Hamper middle with ware</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Hamper great with ware</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>I.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>INk the runlet</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Indico the bag C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Jugs the dozen</cell>
+                     <cell>00</cell>
+                     <cell>0¼</cell>
+                  </row>
+                  <row>
+                     <cell>Iron looſe the tun</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Iron ware the basket</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Iron craned the tun</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Iron in bar the tun</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Iron Ordnance the tun</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Iron pots the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Iron Shot or Bullets the tun</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Iron plates the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Iron backs the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>K.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>KNave-ſtocks the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Kettles the Full</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Kelp the tun</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>L.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>LEather the butt</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+                  <row>
+                     <cell>Leather the dicker</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the Fother</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the Role</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the ſmall pig</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Lead the great pig</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Liquoriſh the bag</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Lamb-black the dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Lime the C.</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Latin wrought the hundred</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>M.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>MOlloſſes the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Meal the ½ quarter</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+                  <row>
+                     <cell>Malt the ſcore</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Mum the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Maps the dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Madder the bail</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Madder the ½ bail</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Madder the bag ſmall</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Matts the load of 60.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Maunds great with 4. ears, of fiſh or other wares</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Maunds with 2. ears</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Milſtones large, the ſtone</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Milſtones the ſtone</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Muſſel-boats the boat</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Muſtard-ſeed the quarter</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Meal the load</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>N.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>NUtmegs the bag</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Nails the bag</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+                  <row>
+                     <cell>Nails the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Nails the great bag</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Nails the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Nail-roods the dozen</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Nuts the barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Nuts the quarter</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Nuts the ſack</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>O.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the butt 20. C.</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the pipe</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the punt</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the tun</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Oyl the great runlet</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Oranges the cheſt</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Oranges the box</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Oade the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Oade houſed the Tun</cell>
+                     <cell>01</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Oaker the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Oter the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Oyſters the boat</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Oyſters the ſack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Oyſters the barrel</cell>
+                     <cell>00</cell>
+                     <cell>0¼</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>P.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>PAper the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Paper the bundle</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Paper the load houſed</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Paper the load great</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>Pots the basket</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Pot-candy</cell>
+                     <cell>00</cell>
+                     <cell>0¼</cell>
+                  </row>
+                  <row>
+                     <cell>Pot-aſhes the tun</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Pot-aſhes houſed the tun</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Pitch the barrel</cell>
+                     <cell>00</cell>
+                     <cell>1½</cell>
+                  </row>
+                  <row>
+                     <cell>Perry or Cyder the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Pikes or ſtaves the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Pruens the punt</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Pruens the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Pelts the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Peaſecods the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Peaſecods the great ſack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Peaſe white the quarter</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Pole-davies the piece</cell>
+                     <cell>00</cell>
+                     <cell>0¼</cell>
+                  </row>
+                  <row>
+                     <cell>Purbeck ſtone the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Pineck the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Porters burthens with Oyſters or ſuch like ſmall things</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Pulter C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Powder the barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Pails the dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Pails the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>Q.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>QUickſilver the runlet</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Quern-ſtones, the ſtone ſmall</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Quern-ſtones, the ſtone middle</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Quern-ſtones the great ſize</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>R.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>RIce the bag 3. C.</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Rags the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Rug the pack</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Rug the bundle</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Red lead the runlet</cell>
+                     <cell>00</cell>
+                     <cell>1½</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the cheſt</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the piece</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the basket</cell>
+                     <cell>00</cell>
+                     <cell>0¼</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins the frail</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Rubbers the basket</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Roſin the cake</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>S.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>STuffs the truſs C.</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Shomack the bag 2. C.</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Skins the dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Sugar the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Sugar the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Sugar-loaf the C.</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Sugar the cheſt</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Soap the ½ barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Soap the firkin</cell>
+                     <cell>00</cell>
+                     <cell>0½</cell>
+                  </row>
+                  <row>
+                     <cell>Soap-aſhes the barrel</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Salt the wey</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Salt the ſack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Salt the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Salt the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Saltpetre the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Saltpeter the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Shovels a dozen</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Shovels the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Shovels ſhod the bundle</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Salmon the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Steel the faggot</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Steel the barrel</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Steel the firkin</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Sutt the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Starch the barrel</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Sack-cloth the piece</cell>
+                     <cell>00</cell>
+                     <cell>0¼</cell>
+                  </row>
+                  <row>
+                     <cell>Starch the kilderkin</cell>
+                     <cell>00</cell>
+                     <cell>1½</cell>
+                  </row>
+                  <row>
+                     <cell>Paving and pitching ſtones the load</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Burford</hi> and <hi>Portland</hi> ſtones the load</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>T.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>TImber a load craned</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Timber a load not craned</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Tin a C.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Tin the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Tin the block</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Twigs the ſcore</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Trenchers the pack</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Tallow the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Tallow the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Trees the bundle</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Tow the bag or ſack</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Tow the tun</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Tar the barrel</cell>
+                     <cell>00</cell>
+                     <cell>1½</cell>
+                  </row>
+                  <row>
+                     <cell>Tiles paving the load</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Tubs the load</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>V.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>VErmilion the paper</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Vinegar the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Vinegar the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Vinegar the runlet</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Verjuice the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Verjuice the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>W.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>WHiting the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the butt</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the tearce</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the half hogſhead</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the runlet</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the fatt 20. C.</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Wine the turn houſed</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>White lead the runlet</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Wool a bag</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Wool the great ſack</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Wooll the ½ ſack</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Wooll the pocket</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Wool the horſe-pack</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Wax the C. weight</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Wallnuts the ſack</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Wooden ware the pack</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Wares the horſe-pack of any ſort</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Woad the ſack</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Woad the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Wainſcot the C.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Walnuts the barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Weld the tun</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>Y.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>YArn the bundle</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>And if any other Commodity that is not here mentioned, ſhall be brought to the ſaid Wharfs either Imported or Exported, there ſhall be paid for the ſame the like Rates in proportion as is to be paid for Commodities in this List of the like bulk or weight.</hi>
+            </p>
+            <closer>
+               <signed>Edward Walker</signed>.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty. 1674.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
